@@ -1,0 +1,24 @@
+video: 22:47
+
+http://www.reactos.org/
+ReactOS is a Free Community	Opensource Collaborative Compatible	Free operating system.
+Imagine running your favorite Windows applications and drivers in an open-source environment you can trust. That's ReactOS. Not just an Open but also a Free operating system.
+
+root@localhost:~# qemu-kvm -h
+QEMU PC emulator version 0.12.1 (qemu-kvm-0.12.1.2-2.506.el6_10.1), Copyright (c) 2003-2008 Fabrice Bellard
+WARNING: Direct use of qemu-kvm from the command line is not recommended by Red Hat.
+WARNING: Some command line options listed here may not be available in future releases.
+WARNING: Red Hat recommends the use of libvirt as the stable management interface.
+
+https://libvirt.org/
+  The libvirt project:
+    is a toolkit to manage virtualization platforms
+    is accessible from C, Python, Perl, Java and more
+    is licensed under open source licenses
+    supports KVM, QEMU, Xen, Virtuozzo, VMWare ESX, LXC, BHyve and more
+    targets Linux, FreeBSD, Windows and OS-X
+    is used by many applications
+Libvirt是用于管理虚拟化平台的开源的API，后台程序和管理工具。它可以用于管理KVM、Xen、VMware ESX，QEMU和其他虚拟化技术。这些API在云计算的解决方案中广泛使用。
+libvirt是提供了一个方便的方式来管理虚拟机和其他虚拟化功能的软件的集合，如存储和网络接口管理。这些软件包括一个API库，一个守护进程（Libvirtd），和一个命令行实用程序（virsh）。
+　　libvirt的首要目标是能够管理多个不同的虚拟化供应商/虚拟机管理程序提供一个单一的方式。例如，命令“virsh列表等等都可以用于任何支持现有的虚拟机管理程序列表（KVM、Xen、VMware ESX，等）不需要学习管理程序特定的工具！
+
