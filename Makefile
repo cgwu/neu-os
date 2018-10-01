@@ -1,6 +1,9 @@
 all: Image
 
-.PHONY=clean
+.PHONY=clean run-qemu
+
+run-qemu:
+	@qemu-system-i386 -boot a -fda bootsect.o	
 
 # @suppress output cmd.
 bootsect.o:

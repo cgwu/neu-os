@@ -25,3 +25,5 @@ libvirt是提供了一个方便的方式来管理虚拟机和其他虚拟化功�
 git remote add origin https://github.com/cgwu/neu-os.git
 git push -u origin master
 
+覆盖vim配置使用 /etc/vimrc文件。
+
